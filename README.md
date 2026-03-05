@@ -72,8 +72,16 @@ python "AI Designed.py"
 
 The engine ran an automated grid search across `TCS.NS`, `NVDA`, and `BTC-USD` to find the highest-yielding Moving Average combinations.
 
-**Optimal Strategy Basket:** | Asset | Time Period | Fast MA | Slow MA | CAGR (%) | Win Rate (%) | | :--- | :--- | :--- | :--- | :--- | :--- | | **NVDA** | 1000 Days | 50 | 200 | 63.72% | 100.00% | | **BTC-USD** | Max (All-Time) | 10 | 50 | 65.68% | 48.98% | | **TCS.NS** | Max (All-Time) | 50 | 200 | 16.04% | 63.64% |
+**Optimal Strategy Basket:** Python
+
+| Asset   | Optimal   |   Fast |   Slow | CAGR   | Win Rate   |
+|:--------|:----------|-------:|-------:|:-------|:-----------|
+| TCS.NS  | max       |     50 |    200 | 16.04% | 63.64%     |
+| NVDA    | 1000d     |     50 |    200 | 63.72% | 100.00%    |
+| BTC-USD | max       |     10 |     50 | 65.68% | 48.98%     |
+
 
 ### Equity Curve Visualization
 
 _The chart below is generated automatically by `AI Designed.py`, comparing the $10,000 starting portfolio growth across the optimal configurations._
+![Alt text for screen readers](assets/equity_curve.png)
