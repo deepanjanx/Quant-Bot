@@ -1,0 +1,13 @@
+Initializing Data Analytics Engine... Please wait.
+
+================================================================================
+OPTIMIZATION REPORT
+================================================================================
+[TCS.NS] Optimal: max | Fast: 50 | Slow: 200 | CAGR: 16.04% | Win Rate: 63.64%
+[NVDA] Optimal: 1000d | Fast: 50 | Slow: 200 | CAGR: 63.72% | Win Rate: 100.00%
+[BTC-USD] Optimal: max | Fast: 10 | Slow: 50 | CAGR: 65.68% | Win Rate: 48.98%
+
+================================================================================
+GENERATING EQUITY CURVE VISUALIZATIONS
+================================================================================
+Plot generated. Displaying window...

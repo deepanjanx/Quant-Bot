@@ -1,0 +1,174 @@
+For the ticker TCS.NS over a time period of 1000d with FastMA for 5 days and SlowMA for 20 days the report is:
+Total RoI over the Time Period: -15.16%
+CAGR over the Time Period of 1000d: -3.98%
+WinRate over the Time Period of 1000d: 40.00%
+Total trades made over the Time Period of 1000d: 30
+----------------X----------------
+For the ticker TCS.NS over a time period of 1000d with FastMA for 10 days and SlowMA for 50 days the report is:
+Total RoI over the Time Period: 3.18%
+CAGR over the Time Period of 1000d: 0.78%
+WinRate over the Time Period of 1000d: 46.15%
+Total trades made over the Time Period of 1000d: 13
+----------------X----------------
+For the ticker TCS.NS over a time period of 1000d with FastMA for 50 days and SlowMA for 200 days the report is:
+Total RoI over the Time Period: 5.35%
+CAGR over the Time Period of 1000d: 1.30%
+WinRate over the Time Period of 1000d: 33.33%
+Total trades made over the Time Period of 1000d: 3
+----------------X----------------
+----------------X----------------
+For the ticker TCS.NS over a time period of 5y with FastMA for 5 days and SlowMA for 20 days the report is:
+Total RoI over the Time Period: -7.13%
+CAGR over the Time Period of 5y: -1.47%
+WinRate over the Time Period of 5y: 42.11%
+Total trades made over the Time Period of 5y: 38
+----------------X----------------
+For the ticker TCS.NS over a time period of 5y with FastMA for 10 days and SlowMA for 50 days the report is:
+Total RoI over the Time Period: 6.35%
+CAGR over the Time Period of 5y: 1.24%
+WinRate over the Time Period of 5y: 47.06%
+Total trades made over the Time Period of 5y: 17
+----------------X----------------
+For the ticker TCS.NS over a time period of 5y with FastMA for 50 days and SlowMA for 200 days the report is:
+Total RoI over the Time Period: 5.35%
+CAGR over the Time Period of 5y: 1.05%
+WinRate over the Time Period of 5y: 33.33%
+Total trades made over the Time Period of 5y: 3
+----------------X----------------
+----------------X----------------
+For the ticker TCS.NS over a time period of max with FastMA for 5 days and SlowMA for 20 days the report is:
+Total RoI over the Time Period: 107.38%
+CAGR over the Time Period of max: 3.14%
+WinRate over the Time Period of max: 42.70%
+Total trades made over the Time Period of max: 178
+----------------X----------------
+For the ticker TCS.NS over a time period of max with FastMA for 10 days and SlowMA for 50 days the report is:
+Total RoI over the Time Period: 211.89%
+CAGR over the Time Period of max: 4.94%
+WinRate over the Time Period of max: 36.71%
+Total trades made over the Time Period of max: 79
+----------------X----------------
+For the ticker TCS.NS over a time period of max with FastMA for 50 days and SlowMA for 200 days the report is:
+Total RoI over the Time Period: 3234.66%
+CAGR over the Time Period of max: 16.04%
+WinRate over the Time Period of max: 63.64%
+Total trades made over the Time Period of max: 11
+----------------X----------------
+----------------X----------------
+----------------X----------------
+For the ticker NVDA over a time period of 1000d with FastMA for 5 days and SlowMA for 20 days the report is:
+Total RoI over the Time Period: 309.98%
+CAGR over the Time Period of 1000d: 42.43%
+WinRate over the Time Period of 1000d: 35.48%
+Total trades made over the Time Period of 1000d: 31
+----------------X----------------
+For the ticker NVDA over a time period of 1000d with FastMA for 10 days and SlowMA for 50 days the report is:
+Total RoI over the Time Period: 283.56%
+CAGR over the Time Period of 1000d: 40.07%
+WinRate over the Time Period of 1000d: 40.00%
+Total trades made over the Time Period of 1000d: 15
+----------------X----------------
+For the ticker NVDA over a time period of 1000d with FastMA for 50 days and SlowMA for 200 days the report is:
+Total RoI over the Time Period: 614.56%
+CAGR over the Time Period of 1000d: 63.72%
+WinRate over the Time Period of 1000d: 100.00%
+Total trades made over the Time Period of 1000d: 2
+----------------X----------------
+----------------X----------------
+For the ticker NVDA over a time period of 5y with FastMA for 5 days and SlowMA for 20 days the report is:
+Total RoI over the Time Period: 350.19%
+CAGR over the Time Period of 5y: 35.11%
+WinRate over the Time Period of 5y: 34.21%
+Total trades made over the Time Period of 5y: 38
+----------------X----------------
+For the ticker NVDA over a time period of 5y with FastMA for 10 days and SlowMA for 50 days the report is:
+Total RoI over the Time Period: 450.42%
+CAGR over the Time Period of 5y: 40.65%
+WinRate over the Time Period of 5y: 44.44%
+Total trades made over the Time Period of 5y: 18
+----------------X----------------
+For the ticker NVDA over a time period of 5y with FastMA for 50 days and SlowMA for 200 days the report is:
+Total RoI over the Time Period: 614.56%
+CAGR over the Time Period of 5y: 48.19%
+WinRate over the Time Period of 5y: 100.00%
+Total trades made over the Time Period of 5y: 2
+----------------X----------------
+----------------X----------------
+For the ticker NVDA over a time period of max with FastMA for 5 days and SlowMA for 20 days the report is:
+Total RoI over the Time Period: 29213.23%
+CAGR over the Time Period of max: 23.29%
+WinRate over the Time Period of max: 41.71%
+Total trades made over the Time Period of max: 211
+----------------X----------------
+For the ticker NVDA over a time period of max with FastMA for 10 days and SlowMA for 50 days the report is:
+Total RoI over the Time Period: 60764.22%
+CAGR over the Time Period of max: 26.66%
+WinRate over the Time Period of max: 40.66%
+Total trades made over the Time Period of max: 91
+----------------X----------------
+For the ticker NVDA over a time period of max with FastMA for 50 days and SlowMA for 200 days the report is:
+Total RoI over the Time Period: 101435.05%
+CAGR over the Time Period of max: 29.07%
+WinRate over the Time Period of max: 76.92%
+Total trades made over the Time Period of max: 13
+----------------X----------------
+----------------X----------------
+----------------X----------------
+For the ticker BTC-USD over a time period of 1000d with FastMA for 5 days and SlowMA for 20 days the report is:
+Total RoI over the Time Period: 101.44%
+CAGR over the Time Period of 1000d: 29.16%
+WinRate over the Time Period of 1000d: 27.59%
+Total trades made over the Time Period of 1000d: 29
+----------------X----------------
+For the ticker BTC-USD over a time period of 1000d with FastMA for 10 days and SlowMA for 50 days the report is:
+Total RoI over the Time Period: 116.72%
+CAGR over the Time Period of 1000d: 32.66%
+WinRate over the Time Period of 1000d: 45.45%
+Total trades made over the Time Period of 1000d: 11
+----------------X----------------
+For the ticker BTC-USD over a time period of 1000d with FastMA for 50 days and SlowMA for 200 days the report is:
+Total RoI over the Time Period: -4.42%
+CAGR over the Time Period of 1000d: -1.64%
+WinRate over the Time Period of 1000d: 50.00%
+Total trades made over the Time Period of 1000d: 2
+----------------X----------------
+----------------X----------------
+For the ticker BTC-USD over a time period of 5y with FastMA for 5 days and SlowMA for 20 days the report is:
+Total RoI over the Time Period: 41.22%
+CAGR over the Time Period of 5y: 7.14%
+WinRate over the Time Period of 5y: 27.78%
+Total trades made over the Time Period of 5y: 54
+----------------X----------------
+For the ticker BTC-USD over a time period of 5y with FastMA for 10 days and SlowMA for 50 days the report is:
+Total RoI over the Time Period: 97.67%
+CAGR over the Time Period of 5y: 14.59%
+WinRate over the Time Period of 5y: 45.45%
+Total trades made over the Time Period of 5y: 22
+----------------X----------------
+For the ticker BTC-USD over a time period of 5y with FastMA for 50 days and SlowMA for 200 days the report is:
+Total RoI over the Time Period: 87.49%
+CAGR over the Time Period of 5y: 13.39%
+WinRate over the Time Period of 5y: 75.00%
+Total trades made over the Time Period of 5y: 4
+----------------X----------------
+----------------X----------------
+For the ticker BTC-USD over a time period of max with FastMA for 5 days and SlowMA for 20 days the report is:
+Total RoI over the Time Period: 16518.41%
+CAGR over the Time Period of max: 56.16%
+WinRate over the Time Period of max: 35.59%
+Total trades made over the Time Period of max: 118
+----------------X----------------
+For the ticker BTC-USD over a time period of max with FastMA for 10 days and SlowMA for 50 days the report is:
+Total RoI over the Time Period: 32660.35%
+CAGR over the Time Period of max: 65.68%
+WinRate over the Time Period of max: 48.98%
+Total trades made over the Time Period of max: 49
+----------------X----------------
+For the ticker BTC-USD over a time period of max with FastMA for 50 days and SlowMA for 200 days the report is:
+Total RoI over the Time Period: 13906.73%
+CAGR over the Time Period of max: 53.85%
+WinRate over the Time Period of max: 60.00%
+Total trades made over the Time Period of max: 10
+----------------X----------------
+----------------X----------------
+----------------X----------------
