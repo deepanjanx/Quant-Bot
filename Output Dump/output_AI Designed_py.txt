@@ -11,3 +11,4 @@ OPTIMIZATION REPORT
 GENERATING EQUITY CURVE VISUALIZATIONS
 ================================================================================
 Plot generated. Displaying window...
+
